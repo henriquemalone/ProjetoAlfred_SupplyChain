@@ -5,19 +5,19 @@ A função desse projeto é recolher reports do SAP, tratá-los, armazenar no ba
 
 <h2>Requisitos:</h2>
 Essas rotinas incluem os seguintes requisitos: <br>
--Abrir o SAP;
-  -Rodar macro para gerar o primeiro report necessário;
-  -Rodar macro para gerar o segundo report necessário;
--Fechar arquivos excel e sap aberto;
--Limpar dados antigos no banco de dados do primeiro report;
--Limpar dados antigos no banco de dados do segundo report;
--Popular banco de dados com o primeiro report;
-  -Tratar bases em excel utilizando as macros criadas;
--Popular banco de dados com o segundo report;
-  -Tratar bases em excel utilizando as macros criadas;
+-Abrir o SAP;<br>
+  -Rodar macro para gerar o primeiro report necessário;<br>
+  -Rodar macro para gerar o segundo report necessário;<br>
+-Fechar arquivos excel e sap aberto;<br>
+-Limpar dados antigos no banco de dados do primeiro report;<br>
+-Limpar dados antigos no banco de dados do segundo report;<br>
+-Popular banco de dados com o primeiro report;<br>
+  -Tratar bases em excel utilizando as macros criadas;<br>
+-Popular banco de dados com o segundo report;<br>
+  -Tratar bases em excel utilizando as macros criadas;<br>
   
--Criar dashboards no Power Bi para exibição das informações; 
-  -Atualizar Power Bi com informações do banco de dados.
+-Criar dashboards no Power Bi para exibição das informações; <br>
+  -Atualizar Power Bi com informações do banco de dados.<br>
 
 <h2>Objetivos:</h2>
 Automatizar um processo que hoje leva dias para ser feito devido a grande quantidade de informações, manter
